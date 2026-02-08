@@ -11,7 +11,7 @@ import SwiftUI
 struct intercedeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           ContentView()
         }
     }
 }
